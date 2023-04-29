@@ -1,0 +1,2 @@
+SELECT * FROM student WHERE student_age = 20;
+SELECT * FROM teacher WHERE subject_id in ('BCA103','BCA106');
